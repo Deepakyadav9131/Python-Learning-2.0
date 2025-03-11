@@ -4,4 +4,4 @@
 table = int(input("Enter your number for table you want: "))
 print ("The table of:", table)
 for count in range(1, 11):
-    print (table, '*', count, '=', table*count)
+    print (table '*', count, '=', table*count)
